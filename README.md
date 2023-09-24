@@ -82,7 +82,7 @@ di.backlight(1);
 ## Known issues
 If the screen does not draw (stuck at "ByVac I2C" test message), or objects are drawn over the "ByVac I2C" message, try a cold reset (disconnect power & USB). 
 
-## Orignal author and license
+## Original author and license
 
  ByVac - Copyright (c) 2011 Jim Spence.  All right reserved.
 
